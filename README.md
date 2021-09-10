@@ -14,7 +14,7 @@ Desafio técnico da TownSQ.
 - OBS: O ARQUIVO DE TEXTO REFERENTE AO BANCO DE DADOS CASO QUEIRA MOFIFICAR ESTÁ NO CAMINHO:
 ...\townsq-test-api\src\main\resources\database
 
-# Metodos:
+# Métodos:
 
 - preparaDatabase() -> Ler o arquivo de texto e o prepara para ser utilizado como banco de dados.
 -  listarPermissoesPorEmail(String email) -> necessário informar um email para listar as permissões do usuário caso exista no banco.
